@@ -11,4 +11,4 @@ electron main.js
 ```
 
 Installation: (Compiled)
-Download the compiled version and run it. 
+Download the compiled version and run it.
